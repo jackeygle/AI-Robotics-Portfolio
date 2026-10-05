@@ -1,13 +1,13 @@
 # AI & Robotics Portfolio — Xinle Zhang
 
-A concise, responsive portfolio with an English single-page homepage: About, Projects, Experience and Contact.
+A concise, responsive portfolio with an English single-page homepage: About, Projects, Algorithm Visualizations, Experience and Contact.
 
 ## Content
 
 - EIT Digital double-degree studies at KTH and Aalto University
 - Master's thesis on multi-agent crowd state estimation from partial observations
 - Knowledge distillation, document Q&A, reinforcement learning, robot manipulation and a creator intelligence hackathon project
-- Interactive algorithm demos, accessible from the Projects section
+- Six algorithm demo cards on the homepage, with demos loaded on demand in an embedded player
 
 The old About, Projects, Skills, Resume, Contact, Philosophy and AI Insights URLs redirect to the relevant homepage section. Individual game URLs remain available.
 
