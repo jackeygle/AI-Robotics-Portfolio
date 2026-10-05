@@ -1,7 +1,7 @@
 # 🌌 AI & Robotics Portfolio - Xinle Zhang
 
 [![Live Website](https://img.shields.io/badge/website-live-brightgreen.svg)](https://jackeysproject.web.app)
-[![GitHub](https://img.shields.io/badge/github-repository-blue.svg)](https://github.com/jackeygle/My-Project-Web)
+[![GitHub](https://img.shields.io/badge/github-repository-blue.svg)](https://github.com/jackeygle/My-Project-Web-Render)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A stunning AI-themed portfolio website showcasing expertise in **Artificial Intelligence**, **Robotics**, and **Machine Learning**. Features an immersive neural network background with dynamic AI processing nodes and interactive visualizations.
@@ -119,10 +119,10 @@ A stunning AI-themed portfolio website showcasing expertise in **Artificial Inte
 
 ```bash
 # Clone the repository
-git clone https://github.com/jackeygle/My-Project-Web.git
+git clone https://github.com/jackeygle/My-Project-Web-Render.git
 
 # Navigate to the project directory
-cd My-Project-Web
+cd My-Project-Web-Render
 
 # Open the website locally
 open public/index.html
@@ -188,6 +188,8 @@ My-Project-Web/
 │   ├── pathfinding-visualizer-game.html  # Algorithm visualizer
 │   └── static/
 │       └── images/             # Project images and assets
+├── projects/
+│   └── algorithm-visualizer/   # Python implementations behind the interactive demos
 ├── render.yaml                # Render deployment configuration
 ├── package.json               # Node.js dependencies and scripts
 ├── Dockerfile                 # Docker configuration for deployment
