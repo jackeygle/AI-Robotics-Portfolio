@@ -1,7 +1,7 @@
 # 🌌 AI & Robotics Portfolio - Xinle Zhang
 
 [![Live Website](https://img.shields.io/badge/website-live-brightgreen.svg)](https://jackeysproject.web.app)
-[![GitHub](https://img.shields.io/badge/github-repository-blue.svg)](https://github.com/jackeygle/My-Project-Web-Render)
+[![GitHub](https://img.shields.io/badge/github-repository-blue.svg)](https://github.com/jackeygle/AI-Robotics-Portfolio)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A stunning AI-themed portfolio website showcasing expertise in **Artificial Intelligence**, **Robotics**, and **Machine Learning**. Features an immersive neural network background with dynamic AI processing nodes and interactive visualizations.
@@ -119,10 +119,10 @@ A stunning AI-themed portfolio website showcasing expertise in **Artificial Inte
 
 ```bash
 # Clone the repository
-git clone https://github.com/jackeygle/My-Project-Web-Render.git
+git clone https://github.com/jackeygle/AI-Robotics-Portfolio.git
 
 # Navigate to the project directory
-cd My-Project-Web-Render
+cd AI-Robotics-Portfolio
 
 # Open the website locally
 open public/index.html
@@ -170,7 +170,7 @@ npm run dev  # serves public/ at http://localhost:3000
 ## 📊 Project Structure
 
 ```
-My-Project-Web/
+AI-Robotics-Portfolio/
 ├── public/
 │   ├── index.html              # Home page with neural network background
 │   ├── about.html              # About section with timeline
@@ -200,8 +200,8 @@ My-Project-Web/
 ## 🎓 Educational Background
 
 **Master's Degree in Autonomous Systems and Intelligent Robotics**
-- **Institution**: EIT Digital Master School (KTH Royal Institute of Technology)
-- **Location**: Stockholm, Sweden
+- **Institutions**: EIT Digital Master School — KTH Royal Institute of Technology (2024–2025) and Aalto University (since September 2025)
+- **Location**: Helsinki, Finland
 - **Duration**: August 2024 - Present
 - **Focus**: AI algorithms, sensor data processing, system design
 
@@ -229,7 +229,7 @@ My-Project-Web/
 
 - **Email**: jackeygle@gmail.com
 - **Phone**: (+46) 793395619
-- **Location**: Stockholm, Sweden
+- **Location**: Helsinki, Finland
 - **GitHub**: [@jackeygle](https://github.com/jackeygle)
 - **Portfolio**: [jackeysproject.web.app](https://jackeysproject.web.app)
 

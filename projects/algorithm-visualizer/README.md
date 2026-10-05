@@ -2,7 +2,7 @@
 
 > This project is now maintained as part of the main portfolio repository.
 
-[![GitHub stars](https://img.shields.io/github/stars/jackeygle/Algorithm-Visualizer?style=social)](https://github.com/jackeygle/My-Project-Web-Render/tree/main/projects/algorithm-visualizer/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/jackeygle/AI-Robotics-Portfolio?style=social)](https://github.com/jackeygle/AI-Robotics-Portfolio/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Live Demo](https://img.shields.io/badge/demo-live-brightgreen.svg)](https://jackeysproject.web.app/games.html)
@@ -201,8 +201,8 @@ class PathfindingAlgorithms:
 
 ```bash
 # Clone the repository
-git clone https://github.com/jackeygle/My-Project-Web-Render/tree/main/projects/algorithm-visualizer.git
-cd Algorithm-Visualizer
+git clone https://github.com/jackeygle/AI-Robotics-Portfolio.git
+cd AI-Robotics-Portfolio/projects/algorithm-visualizer
 
 # Run any algorithm demonstration
 python snake-ai-astar.py
