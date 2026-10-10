@@ -2,6 +2,16 @@
 
 A concise, responsive portfolio with an English single-page homepage: About, Projects, Algorithm Visualizations, Experience and Contact.
 
+## Live Website
+
+**[Explore the live portfolio →](https://my-project-web-render.onrender.com/)**
+
+## Demo Video
+
+A 32-second walkthrough of the deployed website: homepage, selected projects, interactive algorithm demos with Snake AI in action, research experience and contact.
+
+https://github.com/user-attachments/assets/c6572edc-f29b-42c8-b751-ff043c55fc66
+
 ## Content
 
 - EIT Digital double-degree studies at KTH and Aalto University
